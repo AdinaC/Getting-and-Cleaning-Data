@@ -2,7 +2,7 @@
 library(reshape)
 
 #Save&unzip file from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip on C:\TEST\Date
-setwd("C:\\TEST\\Date")
+setwd("C:\\TEST\\UCI HAR Dataset")
 
 #----------------------------------------------------------------
 #1. Merge the training and the test sets to create one data set
