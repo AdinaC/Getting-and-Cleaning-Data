@@ -31,3 +31,7 @@ The activity name with the following possible values.
 •	STANDING
 
 •	LAYING
+
+Values
+
+Values are the mean for the measurements.
